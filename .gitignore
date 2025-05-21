@@ -1,0 +1,27 @@
+﻿# Node
+node_modules/
+npm-debug.log
+
+# توكن وبيانات حساسة
+.env
+config.json
+secrets.json
+botSettings.json
+
+# ملفات السجل
+*.log
+logs/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات مؤقتة
+tmp/
+temp/
+.tmp/
+.temp/
+
+# تجاهل ملفات معينة قد تحتوي على معلومات حساسة
+token.txt
+credentials.json
